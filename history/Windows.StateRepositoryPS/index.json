@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.StateRepositoryPS.dll",
+  "latest": "3977333403-1E1AA1324616E83A1EFB7F0E1C688144-1",
+  "builds": [
+    {
+      "key": "3977333403-1E1AA1324616E83A1EFB7F0E1C688144-1",
+      "timestamp": "3977333403",
+      "pdb_guid": "1E1AA1324616E83A1EFB7F0E1C688144",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3977333403-1E1AA1324616E83A1EFB7F0E1C688144-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
